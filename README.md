@@ -2,7 +2,7 @@
 - 👀 I’m interested in money
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on notting
-- 📫 How to reach me here
+- 📫 How to reach me here (you can't)
 
 <!---
 C4FE1/C4FE1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
